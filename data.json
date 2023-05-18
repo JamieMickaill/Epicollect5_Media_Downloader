@@ -1,0 +1,8 @@
+{
+    "FILENAME": "epacris_fixed.csv",
+    "NAMECOLS": "1_Swamp,UTM_Northing_2_location,UTM_Easting_2_location,",
+    "IMGCOLS": "11_BTR_evidence,12_BTR_evidence,13_Site_photopoint,14_Site_photopoint",
+    "SLUG": "epacris-barrington",
+    "APPID": "",
+    "IMG_FOLDER": "image_folder"
+}
