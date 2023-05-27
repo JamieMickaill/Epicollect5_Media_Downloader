@@ -2,7 +2,7 @@
     "FILENAME": "lilyphotos.csv",
     "NAMECOLS": "1_site,2_date",
     "IMGCOLS": "3_NE,4_SE,5_SW,6_NW,7_threats,8_threats,9_threats,10_plant_health,11_plant_health,12_plant_health",
-    "SLUG": "epacris-barrington",
+    "SLUG": "euphorbia-psammogeton-photo-points",
     "APPID": "",
     "IMG_FOLDER": "image_folder"
 }
