@@ -1,0 +1,3 @@
+Update data_.json with the correct information corresponding to your csv file
+change name of data_.json to data.json
+Note: Date formatting with '/' is currently not supported
